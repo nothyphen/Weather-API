@@ -2,6 +2,7 @@
 # Weather-API
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<hr>
 The Weather-API is an API powered by Flask and FastAPI, we can send requests to them and send our city as a POST request and receieve the current weather.
 
 ### Installation
